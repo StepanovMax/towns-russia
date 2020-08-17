@@ -46973,6 +46973,216 @@
             "slug": "suburb"
           }
         ]
+      },
+      {
+        "type": "poselok",
+        "label": "Амдерма",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Андег",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Белушье",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Бугрино",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Варнек",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Великовисочное",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Верхняя Пеша",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Вижас",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Волоковая",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Волонга",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Выучейский",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Индига",
+        "slug": ""
+      },
+      {
+        "type": "working-poselok",
+        "label": "Искателей",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Каменка",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Каратайка",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Кия",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Коткино",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Красное",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Куя",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Лабожское",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Макарово",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Мгла",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Нельмин-Нос",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Несь",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Нижняя Пеша",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Оксино",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Ома",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Осколково",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Пылемец",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Снопа",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Тельвиска",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Тошвиска",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Устье",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Усть-Кара",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Харута",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Харьягинский",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Хонгурей",
+        "slug": ""
+      },
+      {
+        "type": "poselok",
+        "label": "Хорей-Вер",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Чёрная",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Чижа",
+        "slug": ""
+      },
+      {
+        "type": "selo",
+        "label": "Шойна",
+        "slug": ""
+      },
+      {
+        "type": "derevnya",
+        "label": "Щелино",
+        "slug": ""
       }
     ]
   },
