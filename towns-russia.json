@@ -532,21 +532,6 @@
       },
       {
         "type": "city",
-        "slug": "baykonur",
-        "label": "Байконур",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "baksheevo",
         "label": "Бакшеево",
         "districts": [
@@ -893,7 +878,7 @@
       {
         "type": "city",
         "slug": "dzherzhinskiy",
-        "label": "Джержинский",
+        "label": "Дзержинский",
         "districts": [
           {
             "label": "В городе",
@@ -1103,7 +1088,7 @@
       {
         "type": "city",
         "slug": "zaprudnaya",
-        "label": "Запрудная",
+        "label": "Запрудный",
         "districts": [
           {
             "label": "В городе",
@@ -1823,7 +1808,7 @@
       {
         "type": "city",
         "slug": "narofominsk",
-        "label": "Нарофоминск",
+        "label": "Наро-Фоминск",
         "districts": [
           {
             "label": "В городе",
@@ -2078,7 +2063,7 @@
       {
         "type": "city",
         "slug": "pirogovskiy",
-        "label": "Пироговский",
+        "label": "микрорайон Посёлок Пироговский",
         "districts": [
           {
             "label": "В городе",
@@ -3834,7 +3819,7 @@
       {
         "type": "city",
         "slug": "altayskiy",
-        "label": "Алтайский",
+        "label": "Алтайское",
         "districts": [
           {
             "label": "В городе",
@@ -4054,8 +4039,8 @@
       },
       {
         "type": "city",
-        "slug": "blagoveshchensk",
-        "label": "Благовещенск",
+        "slug": "blagoveshchenka",
+        "label": "Благовещенка",
         "districts": [
           {
             "label": "В городе",
@@ -4550,7 +4535,7 @@
       {
         "type": "city",
         "slug": "staroalleyskoe",
-        "label": "Староаллейское",
+        "label": "Староалейское",
         "districts": [
           {
             "label": "В городе",
@@ -4715,7 +4700,7 @@
       {
         "type": "city",
         "slug": "ust-ulagan",
-        "label": "Усть-Улаган",
+        "label": "Улаган",
         "districts": [
           {
             "label": "В городе",
@@ -4839,21 +4824,6 @@
     "slug": "amurskaya",
     "label": "Амурская",
     "localities": [
-      {
-        "type": "city",
-        "slug": "aygun",
-        "label": "Айгунь",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
       {
         "type": "city",
         "slug": "arhara",
@@ -5568,21 +5538,6 @@
         "type": "city",
         "slug": "mirnyy",
         "label": "Мирный",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "naryan-mar",
-        "label": "Нарьян-Мар",
         "districts": [
           {
             "label": "В городе",
@@ -6416,21 +6371,6 @@
         "type": "city",
         "slug": "karaidel",
         "label": "Караидель",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "karaidelskiy",
-        "label": "Караидельский",
         "districts": [
           {
             "label": "В городе",
@@ -7472,8 +7412,8 @@
       },
       {
         "type": "city",
-        "slug": "kokarevka",
-        "label": "Кокаревка",
+        "slug": "kokorevka",
+        "label": "Кокоревка",
         "districts": [
           {
             "label": "В городе",
@@ -8140,7 +8080,7 @@
       {
         "type": "city",
         "slug": "taksio",
-        "label": "Такси��о",
+        "label": "Таксимо",
         "districts": [
           {
             "label": "В городе",
@@ -9117,21 +9057,6 @@
         "type": "city",
         "slug": "srednyaya-ahtuba",
         "label": "Средняя Ахтуба",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "stalingrad",
-        "label": "Сталинград",
         "districts": [
           {
             "label": "В городе",
@@ -11371,7 +11296,7 @@
       {
         "type": "city",
         "slug": "alygzher",
-        "label": "Алыгжер",
+        "label": "Алыгджер",
         "districts": [
           {
             "label": "В городе",
@@ -11465,7 +11390,7 @@
       {
         "type": "city",
         "slug": "artemovskiy",
-        "label": "Артемовский",
+        "label": "Артёмовский",
         "districts": [
           {
             "label": "В городе",
@@ -11780,7 +11705,7 @@
       {
         "type": "city",
         "slug": "zvezdnyy",
-        "label": "Звездный",
+        "label": "Звёздный",
         "districts": [
           {
             "label": "В городе",
@@ -12470,7 +12395,7 @@
       {
         "type": "city",
         "slug": "sovetskoe",
-        "label": "Советское",
+        "label": "Кетченеры",
         "districts": [
           {
             "label": "В городе",
@@ -12515,7 +12440,7 @@
       {
         "type": "city",
         "slug": "chegem-pervyy",
-        "label": "Чегем-Первый",
+        "label": "Чегем",
         "districts": [
           {
             "label": "В городе",
@@ -12656,21 +12581,6 @@
       },
       {
         "type": "city",
-        "slug": "kyonigsberg",
-        "label": "Кёнигсберг",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "kaliningrad",
         "label": "Калининград",
         "districts": [
@@ -12685,21 +12595,6 @@
           {
             "label": "Центральный",
             "slug": "centralnyy"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "kenigsberg",
-        "label": "Кёнигсберг",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
           }
         ]
       },
@@ -12893,7 +12788,7 @@
       {
         "type": "city",
         "slug": "arshan",
-        "label": "Аршань",
+        "label": "Аршан",
         "districts": [
           {
             "label": "В городе",
@@ -13013,7 +12908,7 @@
       {
         "type": "city",
         "slug": "cagan-aman",
-        "label": "Цаган-Аман",
+        "label": "Цаган Аман",
         "districts": [
           {
             "label": "В городе",
@@ -14013,7 +13908,7 @@
       {
         "type": "city",
         "slug": "impalahti",
-        "label": "Импалахти",
+        "label": "Импилахти",
         "districts": [
           {
             "label": "В городе",
@@ -14411,53 +14306,8 @@
     "localities": [
       {
         "type": "city",
-        "slug": "",
-        "label": "",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "",
-        "label": "",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "",
-        "label": "",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "",
-        "label": "",
+        "slug": "cherkessk",
+        "label": "Черкесск",
         "districts": [
           {
             "label": "В городе",
@@ -14539,7 +14389,7 @@
       {
         "type": "city",
         "slug": "berezovskiy",
-        "label": "Березовский",
+        "label": "Берёзовский",
         "districts": [
           {
             "label": "В городе",
@@ -15557,7 +15407,7 @@
       {
         "type": "city",
         "slug": "halturin",
-        "label": "Халтурин",
+        "label": "Орлов",
         "districts": [
           {
             "label": "В городе",
@@ -15684,7 +15534,7 @@
       {
         "type": "city",
         "slug": "vozhael",
-        "label": "Вожаель",
+        "label": "Вожаёль",
         "districts": [
           {
             "label": "В городе",
@@ -15729,7 +15579,7 @@
       {
         "type": "city",
         "slug": "geshart",
-        "label": "Гешарт",
+        "label": "Жешарт",
         "districts": [
           {
             "label": "В городе",
@@ -15984,7 +15834,7 @@
       {
         "type": "city",
         "slug": "troicko-pechersk",
-        "label": "Троицко-Печерск",
+        "label": "Троицко-Печорск",
         "districts": [
           {
             "label": "В городе",
@@ -16340,7 +16190,7 @@
       {
         "type": "city",
         "slug": "parfentevo",
-        "label": "Парфентьево",
+        "label": "Парфеньево",
         "districts": [
           {
             "label": "В городе",
@@ -16970,7 +16820,7 @@
       {
         "type": "city",
         "slug": "lenigradskaya",
-        "label": "Лениградская",
+        "label": "Ленинградская",
         "districts": [
           {
             "label": "В городе",
@@ -17360,7 +17210,7 @@
       {
         "type": "city",
         "slug": "artemovsk",
-        "label": "Артемовск",
+        "label": "Артёмовск",
         "districts": [
           {
             "label": "В городе",
@@ -17465,7 +17315,7 @@
       {
         "type": "city",
         "slug": "beltyrskiy",
-        "label": "Бельтырский",
+        "label": "Бельтирский",
         "districts": [
           {
             "label": "В городе",
@@ -17750,7 +17600,7 @@
       {
         "type": "city",
         "slug": "zaozernyy",
-        "label": "Заозерный",
+        "label": "Заозёрный",
         "districts": [
           {
             "label": "В городе",
@@ -17945,7 +17795,7 @@
       {
         "type": "city",
         "slug": "kopevo",
-        "label": "Копьево",
+        "label": "Копьёво",
         "districts": [
           {
             "label": "В городе",
@@ -18100,7 +17950,7 @@
       {
         "type": "city",
         "slug": "novoselovo",
-        "label": "Новоселово",
+        "label": "Новосёлово",
         "districts": [
           {
             "label": "В городе",
@@ -19135,7 +18985,7 @@
       {
         "type": "city",
         "slug": "dmitriev-lgovskiy",
-        "label": "Дмитриев-Льговский",
+        "label": "Дмитриев",
         "districts": [
           {
             "label": "В городе",
@@ -19195,7 +19045,7 @@
       {
         "type": "city",
         "slug": "konyshevka",
-        "label": "Конышевка",
+        "label": "Конышёвка",
         "districts": [
           {
             "label": "В городе",
@@ -19506,7 +19356,7 @@
       {
         "type": "city",
         "slug": "danhov",
-        "label": "Данхов",
+        "label": "Данков",
         "districts": [
           {
             "label": "В городе",
@@ -19730,21 +19580,6 @@
     "localities": [
       {
         "type": "city",
-        "slug": "anadyr",
-        "label": "Анадырь",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "atka",
         "label": "Атка",
         "districts": [
@@ -19836,7 +19671,7 @@
       {
         "type": "city",
         "slug": "iulitin",
-        "label": "Иульитин",
+        "label": "Иультин",
         "districts": [
           {
             "label": "В городе",
@@ -20787,7 +20622,7 @@
       {
         "type": "city",
         "slug": "zaozersk",
-        "label": "Заозерск",
+        "label": "Заозёрск",
         "districts": [
           {
             "label": "В городе",
@@ -21188,7 +21023,7 @@
       {
         "type": "city",
         "slug": "bolsherechensk",
-        "label": "Большереченск",
+        "label": "Большеорловское",
         "districts": [
           {
             "label": "В городе",
@@ -22314,7 +22149,7 @@
       {
         "type": "city",
         "slug": "marevo",
-        "label": "Марево",
+        "label": "Марёво",
         "districts": [
           {
             "label": "В городе",
@@ -22720,7 +22555,7 @@
       {
         "type": "city",
         "slug": "krasnozerskoe",
-        "label": "Краснозерское",
+        "label": "Краснозёрское",
         "districts": [
           {
             "label": "В городе",
@@ -23022,7 +22857,7 @@
       {
         "type": "city",
         "slug": "chistoozernoe",
-        "label": "Чистоозерное",
+        "label": "Чистоозёрное",
         "districts": [
           {
             "label": "В городе",
@@ -24233,7 +24068,7 @@
       {
         "type": "city",
         "slug": "zmievka",
-        "label": "Змиевка",
+        "label": "Змиёвка",
         "districts": [
           {
             "label": "В городе",
@@ -24383,7 +24218,7 @@
       {
         "type": "city",
         "slug": "orel",
-        "label": "Орел",
+        "label": "Орёл",
         "districts": [
           {
             "label": "Железнодорожный",
@@ -24653,7 +24488,7 @@
       {
         "type": "city",
         "slug": "zolotarevka",
-        "label": "Золотаревка",
+        "label": "Золотарёвка",
         "districts": [
           {
             "label": "В городе",
@@ -25223,7 +25058,7 @@
       {
         "type": "city",
         "slug": "kochevo",
-        "label": "Кочево",
+        "label": "Кочёво",
         "districts": [
           {
             "label": "В городе",
@@ -25418,7 +25253,7 @@
       {
         "type": "city",
         "slug": "ocher",
-        "label": "Очер",
+        "label": "Очёр",
         "districts": [
           {
             "label": "В городе",
@@ -25700,22 +25535,7 @@
       {
         "type": "city",
         "slug": "artem",
-        "label": "Артем",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "artemovskiy",
-        "label": "Артемовский",
+        "label": "Артём",
         "districts": [
           {
             "label": "В городе",
@@ -26379,7 +26199,7 @@
       {
         "type": "city",
         "slug": "krasnogorodskoe",
-        "label": "Красногородское",
+        "label": "Красногородск",
         "districts": [
           {
             "label": "В городе",
@@ -26724,12 +26544,8 @@
       {
         "type": "city",
         "slug": "ayutinsk",
-        "label": "Аютинск",
+        "label": "Аютинский",
         "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
           {
             "label": "Пригород",
             "slug": "suburb"
@@ -27503,7 +27319,7 @@
       {
         "type": "city",
         "slug": "tacinskiy",
-        "label": "Тацинский",
+        "label": "Тацинская",
         "districts": [
           {
             "label": "В городе",
@@ -28140,7 +27956,7 @@
       {
         "type": "city",
         "slug": "bolshaya-glushchica",
-        "label": "Большая Глущица",
+        "label": "Большая Глушица",
         "districts": [
           {
             "label": "В городе",
@@ -28200,7 +28016,7 @@
       {
         "type": "city",
         "slug": "zhigulevsk",
-        "label": "Жигулевск",
+        "label": "Жигулёвск",
         "districts": [
           {
             "label": "В городе",
@@ -28275,7 +28091,7 @@
       {
         "type": "city",
         "slug": "kinel-cherkasy",
-        "label": "Кинель-Черкасы",
+        "label": "Кинель-Черкассы",
         "districts": [
           {
             "label": "В городе",
@@ -28336,21 +28152,6 @@
         "type": "city",
         "slug": "krasnyy-yar",
         "label": "Красный Яр",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "kuybyshev",
-        "label": "Куйбышев",
         "districts": [
           {
             "label": "В городе",
@@ -29094,7 +28895,7 @@
       {
         "type": "city",
         "slug": "pugachev",
-        "label": "Пугачев",
+        "label": "Пугачёв",
         "districts": [
           {
             "label": "В городе",
@@ -29657,7 +29458,7 @@
       {
         "type": "city",
         "slug": "olekminsk",
-        "label": "Олекминск",
+        "label": "Олёкминск",
         "districts": [
           {
             "label": "В городе",
@@ -30361,7 +30162,7 @@
       {
         "type": "city",
         "slug": "artemovskiy",
-        "label": "Артемовский",
+        "label": "Артёмовский",
         "districts": [
           {
             "label": "В городе",
@@ -30466,7 +30267,7 @@
       {
         "type": "city",
         "slug": "berezovskiy",
-        "label": "Березовский",
+        "label": "Берёзовский",
         "districts": [
           {
             "label": "В городе",
@@ -31224,21 +31025,6 @@
       },
       {
         "type": "city",
-        "slug": "sverdlovsk",
-        "label": "Свердловск",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "severouralsk",
         "label": "Североуральск",
         "districts": [
@@ -31526,21 +31312,6 @@
         "type": "city",
         "slug": "mozdok",
         "label": "Моздок",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "ordzhonikidze",
-        "label": "Орджоникидзе",
         "districts": [
           {
             "label": "В городе",
@@ -32646,21 +32417,6 @@
             "slug": "suburb"
           }
         ]
-      },
-      {
-        "type": "city",
-        "slug": "cherkessk",
-        "label": "Черкесск",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
       }
     ]
   },
@@ -32976,7 +32732,7 @@
       {
         "type": "city",
         "slug": "umet",
-        "label": "Умет",
+        "label": "Умёт",
         "districts": [
           {
             "label": "В городе",
@@ -33059,21 +32815,6 @@
         "type": "city",
         "slug": "alekseevskoe",
         "label": "Алексеевское",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "almetevsk",
-        "label": "Альметьевск",
         "districts": [
           {
             "label": "В городе",
@@ -33282,21 +33023,6 @@
       },
       {
         "type": "city",
-        "slug": "derbeshkinskiy",
-        "label": "Дербешкинский",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "elabuga",
         "label": "Елабуга",
         "districts": [
@@ -33407,23 +33133,8 @@
       },
       {
         "type": "city",
-        "slug": "kuybyshev",
-        "label": "Куйбышев",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "kukmod",
-        "label": "Кукмод",
+        "slug": "bolgar",
+        "label": "Болгар",
         "districts": [
           {
             "label": "В городе",
@@ -33915,21 +33626,6 @@
         "type": "city",
         "slug": "kalashnikovo",
         "label": "Калашниково",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "kalinin",
-        "label": "Калинин",
         "districts": [
           {
             "label": "В городе",
@@ -34971,7 +34667,7 @@
       {
         "type": "city",
         "slug": "belev",
-        "label": "Белев",
+        "label": "Белёв",
         "districts": [
           {
             "label": "В городе",
@@ -35328,7 +35024,7 @@
       {
         "type": "city",
         "slug": "shchekino",
-        "label": "Щекино",
+        "label": "Щёкино",
         "districts": [
           {
             "label": "В городе",
@@ -35365,7 +35061,7 @@
       {
         "type": "city",
         "slug": "abatskiy",
-        "label": "Абатский",
+        "label": "Абатское",
         "districts": [
           {
             "label": "В городе",
@@ -35529,23 +35225,8 @@
       },
       {
         "type": "city",
-        "slug": "gubkinskiy",
-        "label": "Губкинский",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "zavodopetrovskiy",
-        "label": "Заводопетровский",
+        "label": "Заводопетровское",
         "districts": [
           {
             "label": "В городе",
@@ -35561,21 +35242,6 @@
         "type": "city",
         "slug": "zavodoukovsk",
         "label": "Заводоуковск",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "izluchinsk",
-        "label": "Излучинск",
         "districts": [
           {
             "label": "В городе",
@@ -35724,53 +35390,8 @@
       },
       {
         "type": "city",
-        "slug": "megion",
-        "label": "Мегион",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "muzhi",
         "label": "Мужи",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "muravlenko",
-        "label": "Муравленко",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "nadym",
-        "label": "Надым",
         "districts": [
           {
             "label": "В городе",
@@ -35799,83 +35420,8 @@
       },
       {
         "type": "city",
-        "slug": "nefteyugansk",
-        "label": "Нефтеюганск",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "nizhnevartovsk",
-        "label": "Нижневартовск",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "nizhnyaya-tavda",
         "label": "Нижняя Тавда",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "novyy-urengoy",
-        "label": "Новый Уренгой",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "noyabrsk",
-        "label": "Ноябрьск",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "nyagan",
-        "label": "Нягань",
         "districts": [
           {
             "label": "В городе",
@@ -35905,7 +35451,7 @@
       {
         "type": "city",
         "slug": "omutinskiy",
-        "label": "Омутинский",
+        "label": "Омутинское",
         "districts": [
           {
             "label": "В городе",
@@ -35921,21 +35467,6 @@
         "type": "city",
         "slug": "raduzhnyy",
         "label": "Радужный",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "salehard",
-        "label": "Салехард",
         "districts": [
           {
             "label": "В городе",
@@ -36094,21 +35625,6 @@
         "type": "city",
         "slug": "uporovo",
         "label": "Упорово",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
-        "slug": "uray",
-        "label": "Урай",
         "districts": [
           {
             "label": "В городе",
@@ -37049,7 +36565,7 @@
       {
         "type": "city",
         "slug": "berezovyy",
-        "label": "Березовый",
+        "label": "Берёзовый",
         "districts": [
           {
             "label": "В городе",
@@ -38011,7 +37527,7 @@
       {
         "type": "city",
         "slug": "trehgornyy",
-        "label": "Трехгорный",
+        "label": "Трёхгорный",
         "districts": [
           {
             "label": "В городе",
@@ -38166,7 +37682,7 @@
       {
         "type": "city",
         "slug": "yuzhno-uralsk",
-        "label": "Южно-Уральск",
+        "label": "Южноуральск",
         "districts": [
           {
             "label": "В городе",
@@ -38412,7 +37928,7 @@
       {
         "type": "city",
         "slug": "batyreva",
-        "label": "Батырева",
+        "label": "Батырево",
         "districts": [
           {
             "label": "В городе",
@@ -39445,21 +38961,6 @@
     "localities": [
       {
         "type": "city",
-        "slug": "andropov",
-        "label": "Андропов",
-        "districts": [
-          {
-            "label": "В городе",
-            "slug": "inTown"
-          },
-          {
-            "label": "Пригород",
-            "slug": "suburb"
-          }
-        ]
-      },
-      {
-        "type": "city",
         "slug": "berendeevo",
         "label": "Берендеево",
         "districts": [
@@ -39566,7 +39067,7 @@
       {
         "type": "city",
         "slug": "gavrilov-yam",
-        "label": "Гаврилов Ям",
+        "label": "Гаврилов-Ям",
         "districts": [
           {
             "label": "В городе",
@@ -39671,7 +39172,7 @@
       {
         "type": "city",
         "slug": "poshehone-volodarsk",
-        "label": "Пошехонье-Володарск",
+        "label": "Пошехонье",
         "districts": [
           {
             "label": "В городе",
